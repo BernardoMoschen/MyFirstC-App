@@ -1,0 +1,15 @@
+/home/bernardo_moschen_meta/Documents/C#-FirstApp/bin/Debug/net6.0/C#-FirstApp
+/home/bernardo_moschen_meta/Documents/C#-FirstApp/bin/Debug/net6.0/C#-FirstApp.deps.json
+/home/bernardo_moschen_meta/Documents/C#-FirstApp/bin/Debug/net6.0/C#-FirstApp.runtimeconfig.json
+/home/bernardo_moschen_meta/Documents/C#-FirstApp/bin/Debug/net6.0/C#-FirstApp.dll
+/home/bernardo_moschen_meta/Documents/C#-FirstApp/bin/Debug/net6.0/C#-FirstApp.pdb
+/home/bernardo_moschen_meta/Documents/C#-FirstApp/obj/Debug/net6.0/C#-FirstApp.csproj.AssemblyReference.cache
+/home/bernardo_moschen_meta/Documents/C#-FirstApp/obj/Debug/net6.0/C#-FirstApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/bernardo_moschen_meta/Documents/C#-FirstApp/obj/Debug/net6.0/C#-FirstApp.AssemblyInfoInputs.cache
+/home/bernardo_moschen_meta/Documents/C#-FirstApp/obj/Debug/net6.0/C#-FirstApp.AssemblyInfo.cs
+/home/bernardo_moschen_meta/Documents/C#-FirstApp/obj/Debug/net6.0/C#-FirstApp.csproj.CoreCompileInputs.cache
+/home/bernardo_moschen_meta/Documents/C#-FirstApp/obj/Debug/net6.0/C#-FirstApp.dll
+/home/bernardo_moschen_meta/Documents/C#-FirstApp/obj/Debug/net6.0/refint/C#-FirstApp.dll
+/home/bernardo_moschen_meta/Documents/C#-FirstApp/obj/Debug/net6.0/C#-FirstApp.pdb
+/home/bernardo_moschen_meta/Documents/C#-FirstApp/obj/Debug/net6.0/C#-FirstApp.genruntimeconfig.cache
+/home/bernardo_moschen_meta/Documents/C#-FirstApp/obj/Debug/net6.0/ref/C#-FirstApp.dll
