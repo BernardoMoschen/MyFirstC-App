@@ -10,16 +10,15 @@ namespace MyFirstApp
       string name;
       name = "Bernardo"; 
 
-      Console.WriteLine($"My name is {name},");
+      Console.Write($"My name is {name},");
       int age;
       age = 21;
 
-      Console.Write($" and my age is {age}.");
+      Console.WriteLine($" and my age is {age}.");
       
       double height;
       height = 1.70; 
       Console.WriteLine($"I'm {height} tall.");
-
 
       Console.WriteLine($"Testing the double type.");
       double doubleTypeTest; 
