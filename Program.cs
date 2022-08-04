@@ -50,6 +50,9 @@ namespace MyFirstApp
      Console.WriteLine(letter);
 
      letter = (char)(65+1);
+     Console.WriteLine(letter);
+
+     letter = (char)(86+1);
      Console.WriteLine(letter);  
     }
   }
