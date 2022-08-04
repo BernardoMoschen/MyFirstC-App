@@ -25,7 +25,15 @@ namespace MyFirstApp
       doubleTypeTest = 7 / 5 ;
       Console.WriteLine($"Without dots it returns a int: {doubleTypeTest}.");
       doubleTypeTest = 7.0 / 5.0;
-      Console.WriteLine($"After using dots it returns a double/float: {doubleTypeTest}.");
+      Console.WriteLine($"After using dots it returns a double: {doubleTypeTest}.");
+
+
+      long x;
+      x = 2000000000000000000; 
+
+      short y;
+      y = 15000;
+     
     }
   }
 }
