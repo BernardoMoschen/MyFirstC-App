@@ -7,8 +7,16 @@ namespace MyFirstApp
       Console.WriteLine("Hello World!");
 
       int age;
-      age = 27;
+      age = 21;
+
+      Console.WriteLine($"Your age is {age}!");
       
+      double salary;
+      salary = 3000; 
+      Console.WriteLine($"Your salary is {salary}!");
+
+      
+
     }
   }
 }
