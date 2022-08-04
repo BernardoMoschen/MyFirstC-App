@@ -21,6 +21,9 @@ namespace MyFirstApp
       Console.WriteLine($"I'm {height} tall.");
       int heightToInteger = (int)height;
 
+
+      Console.WriteLine($"Studying numbers");
+      
       Console.WriteLine($"Testing the double type.");
       double doubleTypeTest = 7 / 5 ;
       Console.WriteLine($"Without dots it returns a int: {doubleTypeTest}.");
@@ -36,6 +39,18 @@ namespace MyFirstApp
       //Single precision point number
       float z = 1.62f;
      
+
+     Console.WriteLine($"Studying characters and text");
+
+     Console.WriteLine($"Char variables must be single-quoted");
+     char letter = 'a';
+     Console.WriteLine(letter);
+       
+     letter = (char)65;
+     Console.WriteLine(letter);
+
+     letter = (char)(65+1);
+     Console.WriteLine(letter);  
     }
   }
 }
